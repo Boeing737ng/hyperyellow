@@ -1,9 +1,5 @@
-# hyperyellow
+# 201302493 최기현
 
-Turns [hyper](https://hyper.is/) yellow.
+Hyperyellow color changed to RED
 
-<img src="https://cldup.com/iKSFIa2GlW.png" width=500 />
-
-## How to use
-
-Add `hyperyellow` to `plugins` in `~/.hyper.js`.
+<img src="red.png" width=500 />
