@@ -3,3 +3,5 @@
 Hyperyellow color changed to RED
 
 <img src="red.png" width=500 />
+
+Local plugin for Hyperyellow added
